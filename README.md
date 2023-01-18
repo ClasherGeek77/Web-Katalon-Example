@@ -1,1 +1,1 @@
-# Web-Katalon-Example
+This project uses katalon BDD cucumber and xpath.
